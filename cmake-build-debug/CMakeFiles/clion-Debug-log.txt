@@ -1,0 +1,5 @@
+/Users/karimajouz/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/karimajouz/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_TOOLCHAIN_FILE=/Users/karimajouz/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja -S /Users/karimajouz/Documents/GitRepo/Red -B /Users/karimajouz/Documents/GitRepo/Red/cmake-build-debug
+-- Found SFML 3.0.0 in /opt/homebrew/lib/cmake/SFML
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/karimajouz/Documents/GitRepo/Red/cmake-build-debug

@@ -1,0 +1,3 @@
+/Users/karimajouz/Documents/GitRepo/Red/cmake-build-debug/CMakeFiles/Red.dir
+/Users/karimajouz/Documents/GitRepo/Red/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karimajouz/Documents/GitRepo/Red/cmake-build-debug/CMakeFiles/rebuild_cache.dir
